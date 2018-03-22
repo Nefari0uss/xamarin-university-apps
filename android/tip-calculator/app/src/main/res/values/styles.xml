@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="hint">Enter a number</string>
+    <string name="calculate">Calculate</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="items_button">Items</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="about_button">About</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum commodo enim ut scelerisque. Vivamus nisi neque, scelerisque eu est a, rutrum lobortis justo. Duis luctus, purus nec ultricies tempus, ante tellus dapibus justo, vitae posuere dui lorem in nunc.</string>
+    <string name="built_with">Built with Android Studio.</string>
+    <string name="learn_more">Learn More</string>
+    <string name="name">Name:</string>
+    <string name="count">Count:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
